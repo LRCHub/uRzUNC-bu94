@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "base_track": "NO BATIDÃO",
+  "base_artist": "ZXKAI",
+  "createdAt": "2026-04-02T03:07:40.227715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Batidão",
+      "artist": "Melody",
+      "has_synced": true,
+      "path": "select/01_No_Batidão_Melody.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Batidão Da Viola",
+      "artist": "Pedro & Thiago",
+      "has_synced": true,
+      "path": "select/02_No_Batidão_Da_Viola_Pedro_&_Thiago.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Se Jogou no Batidão",
+      "artist": "Lucas Rocha",
+      "has_synced": true,
+      "path": "select/03_Se_Jogou_no_Batidão_Lucas_Rocha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NO BATIDÃO (Slowed)",
+      "artist": "MXKAI",
+      "has_synced": true,
+      "path": "select/04_NO_BATIDÃO_(Slowed)_MXKAI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NO BATIDÃO (Super Slowed)",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/05_NO_BATIDÃO_(Super_Slowed)_ZXKAI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NO BATIDÃO - Slowed",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/06_NO_BATIDÃO_-_Slowed_ZXKAI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NO BATIDAO (Super Slowed)",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/07_NO_BATIDAO_(Super_Slowed)_ZXKAI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NO BATIDÃO",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/08_NO_BATIDÃO_ZXKAI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NO BATIDÃO (Slowed)",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/09_NO_BATIDÃO_(Slowed)_ZXKAI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "NO BATIDÃO - Ultra Slowed",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/10_NO_BATIDÃO_-_Ultra_Slowed_ZXKAI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "NO BATIDÃO (Ultra Slowed)",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/11_NO_BATIDÃO_(Ultra_Slowed)_ZXKAI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NO BATIDÃO - Slowed",
+      "artist": "ZXKAI/slxughter",
+      "has_synced": true,
+      "path": "select/12_NO_BATIDÃO_-_Slowed_ZXKAI_slxughter.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "NO BATIDÃO (Super Slowed)",
+      "artist": "ZXKAI, SLXUGHTER",
+      "has_synced": true,
+      "path": "select/13_NO_BATIDÃO_(Super_Slowed)_ZXKAI,_SLXUGHTER.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "NO BATIDÃO (Super Slowed)",
+      "artist": "ZXKAI dan slxughter",
+      "has_synced": true,
+      "path": "select/14_NO_BATIDÃO_(Super_Slowed)_ZXKAI_dan_slxughter.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "NO BATIDÃO",
+      "artist": "ZXKAI, slxughter",
+      "has_synced": true,
+      "path": "select/15_NO_BATIDÃO_ZXKAI,_slxughter.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "NO BATIDAO",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/16_NO_BATIDAO_ZXKAI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO BATIDÃO",
+      "artist": "ZXKAI, slxughter",
+      "has_synced": false,
+      "path": "select/pl_01_NO_BATIDÃO_ZXKAI,_slxughter.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "NO BATIDÃO",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/localdb_01_NO_BATIDÃO_ZXKAI.lrc",
+      "repo_name": "GXioir-fujY"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "NO BATIDÃO",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/localdb_02_NO_BATIDÃO_ZXKAI.lrc",
+      "repo_name": "orOgilmiL_4"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "NO BATIDÃO",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/localdb_03_NO_BATIDÃO_ZXKAI.lrc",
+      "repo_name": "iRSeIleY3xk"
+    },
+    {
+      "id": "localdb_4",
+      "source": "localdb",
+      "title": "NO BATIDÃO",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/localdb_04_NO_BATIDÃO_ZXKAI.lrc",
+      "repo_name": "MeOoJOt1P0Y"
+    },
+    {
+      "id": "localdb_5",
+      "source": "localdb",
+      "title": "NO BATIDÃO",
+      "artist": "ZXKAI",
+      "has_synced": true,
+      "path": "select/localdb_05_NO_BATIDÃO_ZXKAI.lrc",
+      "repo_name": "NrvM-cI756g"
+    }
+  ]
+}
